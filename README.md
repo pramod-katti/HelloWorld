@@ -1,3 +1,4 @@
 # HelloWorld
-My first github repository. Hello world Program
-This line is for updating and learning on branches.
+My first github repository. 
+1. Hello world Program written in different ways using Python.
+
